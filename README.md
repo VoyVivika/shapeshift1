@@ -9,4 +9,4 @@ Clickteam Fusion 2.5+ is required to open the MFA file.
 
 Loader is for loading map data into your own P3D application.
 
-Visit https://github.com/VoyVivika/shapeshift for the newest iteration of Shapeshift
+This project is not currently being maintained. Please Visit https://github.com/VoyVivika/shapeshift for Shapeshift 2
